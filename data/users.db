@@ -1,0 +1,6 @@
+{"email":"rj@k.com","role":"admin","password":"$2a$10$4qJk760fCdasbZ0c04IL5O1awcLdfmgGlodvHCpBnG5ad3kW7VE9O","_id":"eMHpHeqnvRCirkW8"}
+{"email":"user@name.com","password":"$2a$10$biM.fbPag8kFdF1o82/xa.5sh0/K5jWjnwAdHgzCHMF3DPtUIrGFm","_id":"uKkIn1uVvwZqZQaq","birthday":"2017-07-04T19:32:24.457Z"}
+{"$$indexCreated":{"fieldName":"email","unique":true,"sparse":false}}
+{"email":"user@name.com","password":"$2a$10$biM.fbPag8kFdF1o82/xa.5sh0/K5jWjnwAdHgzCHMF3DPtUIrGFm","_id":"uKkIn1uVvwZqZQaq","birthday":"1991-05-19T19:32:24.457Z"}
+{"email":"user@name.com","password":"$2a$10$biM.fbPag8kFdF1o82/xa.5sh0/K5jWjnwAdHgzCHMF3DPtUIrGFm","_id":"uKkIn1uVvwZqZQaq","birthday":"1991-07-14T22:20:48.357Z"}
+{"email":"user@name.com","password":"$2a$10$biM.fbPag8kFdF1o82/xa.5sh0/K5jWjnwAdHgzCHMF3DPtUIrGFm","_id":"uKkIn1uVvwZqZQaq","birthday":"1991-05-19T22:20:48.357Z"}
